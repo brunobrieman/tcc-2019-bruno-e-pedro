@@ -1,0 +1,22 @@
+ 
+.tituloIndex{
+	color:white;
+  margin-top: -30%;
+  font-size: 50px;
+}
+.cad{
+  margin-left: 20%;
+}
+.espaco{
+  margin-top: 10%;
+}
+.nao_aparece{
+  display: none;
+}
+.perfil {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
